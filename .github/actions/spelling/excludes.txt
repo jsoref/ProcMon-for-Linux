@@ -1,0 +1,4 @@
+\.gif$
+^src/logging/easylogging
+^vendor/
+^\.github/
